@@ -4,7 +4,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - CRUD de Categorias
 - CRUD de Produtos vinculados a Categorias
@@ -15,7 +15,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - Java 17
 - Spring Boot 3
@@ -26,7 +26,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 
 ---
 
-## ⚙️ Como executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
