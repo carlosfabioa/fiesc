@@ -45,7 +45,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 - Senha: (em branco)
  
  
-## 📦 Endpoints da API
+## Endpoints da API
 | Método | URL                        | Descrição                        |
 |--------|----------------------------|----------------------------------|
 | POST   | /categorias                | Criar nova categoria             |
@@ -59,4 +59,4 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 | GET    | /produtos/{id}             | Buscar produto por ID            |
 | PUT    | /produtos/{id}             | Atualizar produto                |
 | DELETE | /produtos/{id}             | Excluir produto                  |
-# fiesc
+
